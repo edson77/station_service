@@ -1,3 +1,6 @@
+# ABOUT THIS APPLICATION
+
+It is an application for the management of service stations, it registers the clients of the service station, it manages the fuel vouchers and registers the payment of the clients as well as the quantity of petrol and diesel available in the cisterns.
 # Clone the project
 
 ### `git clone https://github.com/edson77/station_service.git`
